@@ -1,5 +1,5 @@
 # SVVI
-Calculation of Spectral Variability Vegetation Index
+Calculation of Spectral Variability Vegetation Index in Google Earth Engine
 
 This is the Google Earth Engine implementation of SVVI, which was originally described in:<p>
 Lloyd L. Coulter, Douglas A. Stow, Yu-Hsin Tsai, Nicholas Ibanez, Hsiao-chien Shih, Andrew Kerr, Magdalena Benza, John R. Weeks, Foster Mensah,
